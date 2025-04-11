@@ -49,4 +49,4 @@ Ferramentas e Frameworks:
 - ERP's (SAP FICO e WMS, Protheus, Zanthus, Dynamics)
 - Repositórios fiscais (MASTERSAF DW e TAX ONE)
 - WMS SAGA e MATRIX
-- PDV (Zanthus, MICROS (Oracle), 
+- PDVs: Zanthus, MICROS (Oracle), 
