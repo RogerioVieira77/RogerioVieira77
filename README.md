@@ -8,7 +8,7 @@ Meu nome é Rogério Vieira, sou  formado em Análise de Sistemas, com MBA em ge
 
 **`Atualmente estou cursando o 3º Semestre de Engenharia da Computação`**
 
-+ Quinze anos de experiência em IS/IT, trabalhando com Sustentação e Projetos, desenvolvendo soluções de Infraestrutura e Sistemas para a Indústria e Varejo, agregando valor e performance para as áreas de negócios, garantindo a sustentação de operações críticas, principalmente das áreas de Supply Chain, Fiscais e Contábeis.
+Quinze anos de experiência em IS/IT, trabalhando com Sustentação e Projetos, desenvolvendo soluções de Infraestrutura e Sistemas para a Indústria e Varejo, agregando valor e performance para as áreas de negócios, garantindo a sustentação de operações críticas, principalmente das áreas de Supply Chain, Fiscais e Contábeis.
 
 Sólida experiência em Supervisão e Gerencia de Processos, Projetos e Pessoas.
 
@@ -35,12 +35,11 @@ Idiomas:
 Ferramentas e Frameworks:
 - PYTHON e JAVA
 - HTML, CSS e JSCRIPT
-- MySQL e PostGreSQL
+- MySQL, PostGreSQL e Redis
 - Azure e AWS
 - Linux e Windows Server
 - Docker, Kubernetes
 - Mulesoft, Control+M e Apigee
-- Redis
 - Akamai
 - Atlassian (Confluence, BitBucker, JIRA)
 - DrawIO, VISIO, Excalidraw
