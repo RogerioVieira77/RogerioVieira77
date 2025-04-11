@@ -21,6 +21,7 @@ Ampla experiência com computação em nuvem e infraestrutura on premisse com si
 Afinidades com, Computação em Nuvem, Containers, Banco de Dados, Cidades Inteligentes, Blockchain, IA, IOT e Indústria 4.0.
 
 Estudo processos de geração de energias renováveis, apaixonado por todas as áreas da Elétrica (Eletrônica, Eletromobilidade e Eletromagnetismo).
+
 Tenho três gatinhas e um gatinho, nas horas vagas leio Histórias em Quadrinhos, Jogo Xadrez e conserto coisas!
 
 Dinâmico, com habilidade para trabalhar sobre pressão. 
