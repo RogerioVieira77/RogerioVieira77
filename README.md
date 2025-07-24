@@ -6,7 +6,7 @@
 
 Meu nome é Rogério Vieira, sou  formado em Análise de Sistemas, com MBA em gestão de negócios pela FGV e Gestão de Projetos de Engenharia pelo Instituto MAUÁ.
 
-**`Atualmente estou cursando o 4º Semestre de Engenharia da Computação`**
+**`Atualmente estou cursando o 7º Semestre de Engenharia da Computação`**
 
 Vinte anos de experiência em IS/IT, trabalhando com Sustentação e Projetos, desenvolvendo soluções de infraestrutura e de sistemas para a Indústria e Varejo, agregando valor e performance para as áreas de negócios, garantindo a sustentação de operações críticas, principalmente das áreas de E-Commerce, Supply Chain, Fiscais e Contábeis.
 
