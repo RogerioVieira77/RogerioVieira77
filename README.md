@@ -3,6 +3,7 @@
 **`Arquiteto de Soluções`**
 **`Engenheiro de Sistemas`**
 **`Desenvolvedor FullStack`**
+#
 
 Meu nome é Rogério Vieira, sou  formado em Análise de Sistemas, com MBA em gestão de negócios pela FGV e Gestão de Projetos de Engenharia pelo Instituto MAUÁ.
 
