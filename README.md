@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Rogerio Vieia
+# 👩🏻‍💻 Rogerio Vieira
 
 **`Arquiteto de Soluções`**
 **`Engenheiro de Sistemas`**
