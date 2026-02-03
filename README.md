@@ -1,48 +1,60 @@
-# 👩🏻‍💻 Rogerio Vieira
+# 1. Diga lá!
 
-**`Arquiteto de Soluções`**
-**`Engenheiro de Sistemas`**
-**`Desenvolvedor FullStack`**
-#
+👩🏻‍💻 
+Olá eu sou **Rogerio Vieira** e eu sei falar `Binário`
+Sou Apaixonado por tecnologia, Arquitetura de Sistemas, Automação, Inteligência Artificial, Cidades Inteligentes, Blockchain, IOT e Indústria 4.0, boas práticas e projetos complexos.
 
-Meu nome é Rogério Vieira, sou  formado em Análise de Sistemas, com MBA em gestão de negócios pela FGV e Gestão de Projetos de Engenharia pelo Instituto MAUÁ.
+# 2. Conte me mais...
 
-**`Atualmente estou cursando o 7º Semestre de Engenharia da Computação`**
+🧠 Já atuei como:
+* `Arquiteto de Soluções`
+* `Engenheiro de Sistemas`
+* `Desenvolvedor FullStack`
+* `Front e Backend, APIs e Infraestrutura`
+* `Analista de Negocios para Finanças`
+* `DevOPS` e `DevSecOPS`
+* `SAP FICO`
 
-Vinte anos de experiência em IS/IT, trabalhando com Sustentação e Projetos, desenvolvendo soluções de infraestrutura e de sistemas para a Indústria e Varejo, agregando valor e performance para as áreas de negócios, garantindo a sustentação de operações críticas, principalmente das áreas de E-Commerce, Supply Chain, Fiscais e Contábeis.
+# 3. Tá, mas onde você aprendeu tudo isso?
 
-Especialista em Arquitetura de Soluções (Cloud e On Premises)
-Sólida experiência em Supervisão e Gerencia de Processos, Projetos e de Pessoas.
-Desenvolvedor Fullstack (HTML, CSS, JScript - Front| Python - Back |Mysql, Postgrel, MongoDB - Banco)
+🧑‍🎓
+* Sou formado em `Engenharia da Computação` com uma primeira graduação em `Análise e Desenvolvimento de Sistemas`⚙️🖥️
+* Fiz um `MBA em Gestão de Negócios` na FGV (Para entender melhor os usuários) 🫂
+* Tenho pós em `Gestão de Projetos de Engenharia` pelo Instituto MAUÁ. 🚧
+* Atualmente estou cursando o 7º Semestre de `Engenharia Elétrica` ⚡
 
-No momento sou Coordenador de Arquitetura de sistemas em uma multinacional Espanhola (PROSEGUR) tenho passagem por diversas empresas, de vários portes, entre elas:  SEPHORA, TELTEC Solutions, Nestlé, UOL e Renault, com histórico de serviços para os mercados EUA, EMEA (França, Espanha, Portugal e Suiça) e LATAM (Brasil, Chile, Argentina, México e Colômbia).
+      **O Segredo é não parar de Pedalar!! (🚴🚴🚴)**
 
-Possuo experiência em desenho e construção de Arquitetura de Soluções, Sistemas Distribuidos, Microserviços, Integrações com ERPs diversos, sistemas de PDV, mensageiras e repositórios fiscais
+# 4. Hum... e já fez o que da vida?
 
-Ampla experiência com computação em nuvem e infraestrutura on premisse com sistemas operacionais diversos (Principalmente Linux e Windows Server)
+🧑‍💼
+* Vinte anos de experiência em IS/IT, trabalhando com Sustentação e Projetos
+* Desenvolvendo soluções de infraestrutura e de sistemas para a Indústria e Varejo, agregando valor e performance as soluções e entregando resultados para as áreas de negócios
+* Possuo experiência em desenho e construção de Arquitetura de Soluções, Sistemas Distribuidos, Microserviços, Integrações com ERPs e diversos sistemas financeiros, Sistemas de PDV, Repositórios fiscais, Cidades Inteligentes e Soluções IOT.
+* Sustentação de operações críticas, principalmente das áreas de E-Commerce, Supply Chain, Fiscais e Contábeis. (Quero mais não!!)
+* Sólida experiência em Supervisão e Gerencia de Processos, Projetos e de Pessoas.
+* Tenho passagem por diversas empresas, de vários portes, entre elas: SEPHORA, TELTEC Solutions, Nestlé, UOL e Renault, com histórico de serviços para os mercados como EUA, EMEA (França, Espanha, Portugal e Suiça) e LATAM (Brasil, Chile, Argentina, México e Colômbia).
 
-Afinidade com, Computação em Nuvem, Virtualização, Containers e Engenharia de Dados. 
+# 5. E Hoje?
 
-Aficionado por Inteligência Artificial, Cidades Inteligentes, Blockchain, IOT e Indústria 4.0.
+👨🏽‍💼🪪
+* No momento sou `Coordenador de Arquitetura de Soluções` em uma multinacional Espanhola especializada em segurança.  
 
-Estudo processos de geração de energias renováveis, apaixonado por todas as áreas da Tecnologia e da Elétrica (Eletrônica, Eletromobilidade e Eletromagnetismo).
+# 6. Spika alguma lingua?
 
-Tenho três gatinhas e um gatinho, nas horas vagas leio Clássicos da Litertura e Histórias em Quadrinhos, Jogo Xadrez e conserto coisas!
+🇬🇧 🇪🇸 🇫🇷 (Fora Binário)
+* `Inglês`(Avançado - Falo bem)
+* `Espanhol` (Avançado - Falo bem)
+* `Francês` (Não passo fome em Paris)
 
-Dinâmico, com habilidade para trabalhar sobre pressão. 
+# 7. Ferramentas e Frameworks:
 
-Direcionado a solução de problemas e focado em objetivos e resultados.
-
-Idiomas: 
-**`Inglês`**
-**`Espanhol`**
-**`Francês (Básico)`**
-
-Ferramentas e Frameworks:
-- PYTHON e JAVA
+🧰🛠️🔩
+- PYTHON (Flask e FastAPI)
+- React
 - HTML, CSS e JSCRIPT
 - MySQL, PostGreSQL, MongoDB e Redis
-- Azure e AWS
+- Azure, GCP e AWS
 - Linux e Windows Server
 - Docker, Kubernetes, AKS
 - Mulesoft, Control+M e Apigee
@@ -55,6 +67,18 @@ Ferramentas e Frameworks:
 - Repositórios fiscais (MASTERSAF DW e TAX ONE)
 - WMS SAGA e MATRIX
 - PDVs: Zanthus, MICROS (Oracle), PROTHEUS, entre outros.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
+
+### DevOps & Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   
 Acesse meu portfólio em: 
 <a href="https://gitfollio.vercel.app/RogerioVieira77"> 🔗
@@ -159,3 +183,14 @@ Acesse meu portfólio em:
 }
 GitFolio:end -->
   
+
+
+
+<!--Desenvolvedor Fullstack (HTML, CSS, JScript, REACT - Front| Python - Back |Mysql, Postgres, MongoDB - Banco)
+Ampla experiência com computação em nuvem e infraestrutura on premisse com sistemas operacionais diversos (Principalmente Linux e Windows Server)
+Afinidade com, Computação em Nuvem, Virtualização, Containers e Engenharia de Dados. 
+Aficionado por Inteligência Artificial, Cidades Inteligentes, Blockchain, IOT e Indústria 4.0.
+Estudo processos de geração de energias renováveis, apaixonado por todas as áreas da Tecnologia e da Elétrica (Eletrônica, Eletromobilidade e Eletromagnetismo).
+Tenho três gatinhas e um gatinho, nas horas vagas leio Clássicos da Litertura e Histórias em Quadrinhos, Jogo Xadrez e conserto coisas!
+Dinâmico, com habilidade para trabalhar sobre pressão. 
+Direcionado a solução de problemas e focado em objetivos e resultados.-->
