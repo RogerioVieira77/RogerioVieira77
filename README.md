@@ -61,7 +61,14 @@ Acesse meu portfólio em:
   https://gitfollio.vercel.app/RogerioVieira77
 </a>
 
-<!-- GitFolio:start
+<!-- NATALIA
+    Languages: C, C++, Go, Python, Bash
+    Web & Backend: REST APIs, HTTP, WebSockets, Go, JWT, Fastify, Node.js
+    DevOps & Tools: Git, Linux, VSCode, Docker, CI/CD pipeline
+    Databases: PostgreSQL, Redis
+    Foundations: Client-server architecture, Systems Programming, Data Structures, Networking, Concurrency
+
+GitFolio:start
 {
   "gitfolio": "on",
   "name": "Rogério Rocha Vieira",
