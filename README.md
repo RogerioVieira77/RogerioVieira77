@@ -7,7 +7,7 @@
 
 Meu nome é Rogério Vieira, sou  formado em Análise de Sistemas, com MBA em gestão de negócios pela FGV e Gestão de Projetos de Engenharia pelo Instituto MAUÁ.
 
-**`Atualmente estou cursando o 7º Semestre de Engenharia da Computação`**
+**`Atualmente estou cursando o 9º Semestre de Engenharia da Computação`**
 
 Vinte anos de experiência em IS/IT, trabalhando com Sustentação e Projetos, desenvolvendo soluções de infraestrutura e de sistemas para a Indústria e Varejo, agregando valor e performance para as áreas de negócios, garantindo a sustentação de operações críticas, principalmente das áreas de E-Commerce, Supply Chain, Fiscais e Contábeis.
 
@@ -39,13 +39,16 @@ Idiomas:
 **`Francês (Básico)`**
 
 Ferramentas e Frameworks:
-- PYTHON e JAVA
-- HTML, CSS e JSCRIPT
-- MySQL, PostGreSQL, MongoDB e Redis
-- Azure e AWS
-- Linux e Windows Server
-- Docker, Kubernetes, AKS
-- Mulesoft, Control+M e Apigee
+- LINUX (Ubuntu) e Windows Server
+- PYTHON e GOLANG
+- REACT, HTML/JS/CSS, Typescript, Markdown, NodeJS
+- MySQL, PostGreSQL, MongoDB e Cassandra
+- NGNIX, RABBITMQ, Redis e Kafka
+- Keycloak  
+- Azure e GCP (um pouco de AWS)
+- Docker, Kubernetes, AKS e Terraform
+- Prometheus e GRAFANA
+- Mulesoft, Control+M e Apigee 
 - Akamai
 - GIT/GITHUB
 - Atlassian (Confluence, BitBucker, JIRA)
