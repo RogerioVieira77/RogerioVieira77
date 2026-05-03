@@ -10,7 +10,7 @@ Meu nome é Rogério Vieira, sou  formado em Análise de Sistemas, com MBA em ge
 
 **`Cursando o 10º Semestre de Engenharia da Computação, como segunda graduação`**
 
-Vinte anos de experiência em IS/IT, trabalhando com Desenvolvimento, Sustentação e Projetos, de soluções sistemas do plano de negócio ao front, passando da infraestrutura ao código.
+Vinte anos de experiência em IS/IT, trabalhando com Desenvolvimento, Sustentação e Projetos de soluções de sistemas, do plano de negócio ao frontend , passando da infraestrutura e pelo código.
 
 Experiência com sistemas para a Indústria e Varejo, agregando valor e performance para as áreas de negócios, garantindo a sustentação de operações críticas, principalmente das áreas de E-Commerce, Supply Chain, Fiscais e Contábeis.
 
