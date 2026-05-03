@@ -49,7 +49,7 @@ Ferramentas e Frameworks:
 - Django, Flask, FastAPI, AdonisJS, GIN e ECHO.
 - REACT, HTML/JS/CSS, Typescript, Markdown, NodeJS
 - MySQL, PostGreSQL, MongoDB e Cassandra
-- NGNIX, RabbirABBITMQ, REDIS e Kafka
+- NGNIX, RabbitMQ, REDIS e Kafka
 - Keycloak  
 - Azure e GCP (um pouco de AWS)
 - Docker, Kubernetes, AKS e Terraform
