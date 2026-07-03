@@ -21,8 +21,8 @@ Sólida experiência em Supervisão e Gerencia de Processos, Projetos e de Pesso
 Desenvolvedor Fullstack:
 
 - Front: Node JS, TypeScript, HTML, CSS, JScript.
-- Back: Python, GO e um pouco de C
-- Banco - MySQL, PostgreSQL, SQLServer, MongoDB e Cassandra
+- Back:  Python, GO e um pouco de C
+- Banco: MySQL, PostgreSQL, SQLServer, MongoDB e Cassandra
 
 No momento sou Coordenador de Arquitetura de sistemas em uma multinacional Espanhola (PROSEGUR) tenho passagem por diversas empresas, de vários portes, entre elas:  SEPHORA, TELTEC Solutions, Nestlé, NESPRESSO, UOL e Renault, com histórico de serviços para os mercados EUA, EMEA (França, Espanha, Portugal e Suiça) e LATAM (Brasil, Chile, Argentina, México e Colômbia).
 
