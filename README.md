@@ -5,11 +5,12 @@
 **`Desenvolvedor FullStack`**
 **`Especialista em IoT`**
 
-# Sobre Mim
+## Sobre Mim
 
 Meu nome é Rogério Vieira, sou  formado em Análise de Sistemas, com MBA em gestão de negócios pela FGV e Gestão de Projetos de Engenharia pelo Instituto MAUÁ.
 
 Atualmente trabalho como Arquiteto de Soluções em uma multinacional e estou cursando o último semestre de Engenharia de Computação.
+
 (Já me sinto Engenheiro!!)
 
 +15 anos de experiência em IS/IT, trabalhando com Desenvolvimento, Sustentação e Projetos.
@@ -78,7 +79,6 @@ Lembre-se: *Don´t Panic !*
 **Até mais e obrigado pelos peixes!**
 
 🐬🐬🐬🐬🐬
-
 
 <!-- 
 Acesse meu portfólio em: 
