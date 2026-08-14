@@ -29,10 +29,8 @@ Sou apaixonado por todas as áreas da Tecnologia e da Elétrica (Eletrônica, El
 Tenho três gatinhas e um gatinho, amo todos os bichos!!
 Não viso sem Livros e Música!
 
-
 ## Nas horas vagas?
-Leio Clássicos da Literatura, Histórias em Quadrinhos, Jogo Xadrez, conserto coisas e estudo processos de geração de energias renováveis
-
+Leio Clássicos da Literatura, Histórias em Quadrinhos, Jogo Xadrez, conserto coisas e estudo processos de geração de energias renováveis.
 
 ## Idiomas que falo: 
 - Inglês (Avançado)
@@ -40,14 +38,12 @@ Leio Clássicos da Literatura, Histórias em Quadrinhos, Jogo Xadrez, conserto c
 - Francês (Básico)
 
 ## Gosto muito de:
+- Movimento Open Source
 - Computação em Nuvem
-- Containers
-- Python e GO
 - Varejo Autônomo
 - Cidades Inteligentes
 - Blockchain
-- IA
-- IOT e Indústria 4.0.
+- IA, IOT e Indústria 4.0.
 
 ## Minha Stack do coração:
 
@@ -80,6 +76,8 @@ Leio Clássicos da Literatura, Histórias em Quadrinhos, Jogo Xadrez, conserto c
 Lembre-se: *Don´t Panic !*
 
 **Até mais e obrigado pelos peixes!**
+🐬🐬🐬🐬🐬
+
 
 <!-- 
 Acesse meu portfólio em: 
