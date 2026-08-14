@@ -4,6 +4,7 @@
 **`Engenheiro de Sistemas`**
 **`Desenvolvedor FullStack`**
 **`Especialista em IoT`**
+**`Especialista em Automação Comercial`**
 
 ## Sobre Mim
 
