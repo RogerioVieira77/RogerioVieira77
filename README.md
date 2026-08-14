@@ -3,8 +3,7 @@
 **`Arquiteto de Soluções`**
 **`Engenheiro de Sistemas`**
 **`Desenvolvedor FullStack`**
-**`Especialista em IoT`**
-**`Especialista em Automação Comercial`**
+**`Especialista em IoT e em Automação Comercial`**
 
 ## Sobre Mim
 
