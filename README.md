@@ -48,11 +48,9 @@ Leio Clássicos da Literatura, Histórias em Quadrinhos, Jogo Xadrez, conserto c
 
 ## Minha Stack do coração:
 
-**Front:** Node JS, TypeScript, HTML, CSS, JScript.
-
-**Back:** Python, GO e um pouco de C.
-
-**Banco:** MySQL, PostgreSQL, SQLServer, MongoDB, Cassandra
+- **Front:** Node JS, TypeScript, HTML, CSS, JScript.
+- **Back:** Python, GO e um pouco de C.
+- **Banco:** MySQL, PostgreSQL, SQLServer, MongoDB, Cassandra
 
 ## Ferramentas e Frameworks:
 - LINUX (Ubuntu e Arch) e Windows Server
