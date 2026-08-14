@@ -24,22 +24,21 @@ Tenho passagem por diversas empresas, de vários portes, entre elas: SEPHORA, TE
 Dinâmico, com habilidade para trabalhar sobre pressão.
 Direcionado a solução de problemas e focado em objetivos e entrega de resultados.
 
-**E em casa?**
+## E em casa?
 
 Tenho três gatinhas e um gatinho, amo todos os bichos, Livros e Musica.
 Nas horas vagas leio Clássicos da Literatura e Histórias em Quadrinhos, Jogo Xadrez, conserto coisas e estudo processos de geração de energias renováveis
 
 Sou apaixonado por todas as áreas da Tecnologia e da Elétrica (Eletrônica, Eletromobilidade e Eletromagnetismo).
 
-Idiomas: 
-**`Inglês`**
-**`Espanhol`**
-**`Francês (Básico)`**
+## Idiomas: 
+- Inglês
+- Espanhol
+- Francês (Básico)
 
-Gosto muito de:
+## Gosto muito de:
 - Computação em Nuvem
 - Containers
-- Banco de Dados
 - Python e GO
 - Varejo Autônomo
 - Cidades Inteligentes
@@ -47,15 +46,18 @@ Gosto muito de:
 - IA
 - IOT e Indústria 4.0.
 
-Minha Stack do coração:
+## Minha Stack do coração:
+
 **Front:**
 - Node JS, TypeScript,HTML,CSS,JScript.
+
 **Back:**
-- Python,GO e um pouco de C,
+- Python,GO e um pouco de C.
+
 **Banco:**
 - MySQL,PostgreSQL,SQLServer,MongoDB,Cassandra
 
-Ferramentas e Frameworks:
+## Ferramentas e Frameworks:
 - LINUX (Ubuntu e Arch) e Windows Server
 - PYTHON e GO
 - Django, Flask, FastAPI, AdonisJS, GIN e ECHO.
