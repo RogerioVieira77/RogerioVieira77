@@ -9,13 +9,11 @@
 
 Meu nome é Rogério Vieira, sou  formado em Análise de Sistemas, com MBA em gestão de negócios pela FGV e Gestão de Projetos de Engenharia pelo Instituto MAUÁ.
 
-**`Cursando o 10º Semestre de Engenharia da Computação, como segunda graduação`**
+Atualmente trabalho como Arquiteto de Soluções em uma multinacional e estou cursando o último semestre de Engenharia de Computação.
+(Já me sinto Engenheiro!!)
 
 +15 anos de experiência em IS/IT, trabalhando com Desenvolvimento, Sustentação e Projetos.
 Entregando soluções de sistemas, desde o plano de negócio do frontend, passando pela infraestrutura, banco, código e todo o resto.
-
-Atualmente trabalho como Arquiteto de Soluções em uma multinacional e estou cursando o último semestre de Engenharia de Computação.
-(Já me sinto Engenheiro!!)
 
 Experiência com sistemas para a Indústria e Varejo, sustentação de operações críticas, principalmente das áreas de E-Commerce, Supply Chain, Fiscais e Contábeis.
 Especialista em Arquitetura de Soluções (Cloud e On Premises)
@@ -24,16 +22,21 @@ Tenho passagem por diversas empresas, de vários portes, entre elas: SEPHORA, TE
 Dinâmico, com habilidade para trabalhar sobre pressão.
 Direcionado a solução de problemas e focado em objetivos e entrega de resultados.
 
-## E em casa?
-
-Tenho três gatinhas e um gatinho, amo todos os bichos, Livros e Musica.
-Nas horas vagas leio Clássicos da Literatura e Histórias em Quadrinhos, Jogo Xadrez, conserto coisas e estudo processos de geração de energias renováveis
-
 Sou apaixonado por todas as áreas da Tecnologia e da Elétrica (Eletrônica, Eletromobilidade e Eletromagnetismo).
 
-## Idiomas: 
-- Inglês
-- Espanhol
+## E em casa?
+
+Tenho três gatinhas e um gatinho, amo todos os bichos!!
+Não viso sem Livros e Música!
+
+
+## Nas horas vagas?
+Leio Clássicos da Literatura, Histórias em Quadrinhos, Jogo Xadrez, conserto coisas e estudo processos de geração de energias renováveis
+
+
+## Idiomas que falo: 
+- Inglês (Avançado)
+- Espanhol (Avançado)
 - Francês (Básico)
 
 ## Gosto muito de:
@@ -48,21 +51,16 @@ Sou apaixonado por todas as áreas da Tecnologia e da Elétrica (Eletrônica, El
 
 ## Minha Stack do coração:
 
-**Front:**
-- Node JS, TypeScript,HTML,CSS,JScript.
+**Front:** Node JS, TypeScript, HTML, CSS, JScript.
 
-**Back:**
-- Python,GO e um pouco de C.
+**Back:** Python, GO e um pouco de C.
 
-**Banco:**
-- MySQL,PostgreSQL,SQLServer,MongoDB,Cassandra
+**Banco:** MySQL, PostgreSQL, SQLServer, MongoDB, Cassandra
 
 ## Ferramentas e Frameworks:
 - LINUX (Ubuntu e Arch) e Windows Server
-- PYTHON e GO
 - Django, Flask, FastAPI, AdonisJS, GIN e ECHO.
 - REACT, HTML/JS/CSS, Typescript, Markdown, NodeJS
-- MySQL, PostGreSQL, MongoDB e Cassandra
 - NGNIX, RabbitMQ, REDIS e Kafka
 - Keycloak
 - Azure e GCP (um pouco de AWS)
