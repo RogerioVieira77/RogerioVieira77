@@ -29,7 +29,8 @@ Sou apaixonado por todas as áreas da Tecnologia e da Elétrica (Eletrônica, El
 ## E em casa?
 
 Tenho três gatinhas e um gatinho, amo todos os bichos!!
-Não viso sem Livros e Música!
+
+Não vivo sem Livros e Música!
 
 ## Nas horas vagas?
 Leio Clássicos da Literatura, Histórias em Quadrinhos, Jogo Xadrez, conserto coisas e estudo processos de geração de energias renováveis.
