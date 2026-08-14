@@ -10,37 +10,46 @@
 
 Meu nome é Rogério Vieira, sou  formado em Análise de Sistemas, com MBA em gestão de negócios pela FGV e Gestão de Projetos de Engenharia pelo Instituto MAUÁ.
 
-Atualmente trabalho como Arquiteto de Soluções em uma multinacional e estou cursando o último semestre de Engenharia de Computação.
+- Atualmente trabalho como Arquiteto de Soluções em uma multinacional e estou cursando o último semestre de Engenharia de Computação, (Já me sinto Engenheiro!!).
+- +15 anos de experiência em IS/IT, trabalhando com Desenvolvimento, Sustentação e Projetos. Entregando soluções de sistemas, desde o plano de negócio do frontend, passando pela infraestrutura, banco, código e todo o resto.
+- Dinâmico, Direcionado a solução de problemas, focado em objetivos e entrega de resultados.
 
-(Já me sinto Engenheiro!!)
+- Sou apaixonado por todas as áreas da Matemática, da Tecnologia e da Elétrica (Eletrônica, Eletromobilidade e Eletromagnetismo).
 
-+15 anos de experiência em IS/IT, trabalhando com Desenvolvimento, Sustentação e Projetos.
-Entregando soluções de sistemas, desde o plano de negócio do frontend, passando pela infraestrutura, banco, código e todo o resto.
+## Já fez o quê da vida?
 
-Experiência com sistemas para a Indústria e Varejo, sustentação de operações críticas, principalmente das áreas de E-Commerce, Supply Chain, Fiscais e Contábeis.
-Especialista em Arquitetura de Soluções (Cloud e On Premises)
-Sólida experiência em Supervisão e Gerencia de Processos, Projetos e de Pessoas.
-Tenho passagem por diversas empresas, de vários portes, entre elas: SEPHORA, TELTEC Solutions, Nestlé, NESPRESSO, UOL e Renault, com histórico de serviços para os mercados EUA, EMEA (França, Espanha, Portugal e Suiça) e LATAM (Brasil, Chile, Argentina, México e Colômbia).
-Dinâmico, com habilidade para trabalhar sobre pressão.
-Direcionado a solução de problemas e focado em objetivos e entrega de resultados.
+- Implementei sistemas para a Indústria e Varejo
+- Fiz sustentação de operações críticas, principalmente nas áreas de E-Commerce, Supply Chain, Fiscais e Contábeis.
+- Desenhei muitas Arquiteturas de Soluções (Cloud e On Premises)
+- Já gestionei Pessoas, Processos e Projetos.
+- Passei por algumas empresas, de vários portes, (PROSEGUR, SEPHORA, TELTEC Solutions, Nestlé, NESPRESSO, UOL e Renault).
+- Trabalhei em projetos para os mercados: EUA, EMEA (França, Alemanha, Espanha, Portugal e Suiça) e LATAM (Brasil, Chile, Argentina, México e Colômbia).
 
-Sou apaixonado por todas as áreas da Tecnologia e da Elétrica (Eletrônica, Eletromobilidade e Eletromagnetismo).
 
 ## E em casa?
 
-Tenho três gatinhas e um gatinho, amo todos os bichos!!
+- Tenho três gatinhas e um gatinho, amo todos os bichos!! 🐈 🦇🐅 🦉🐺🐬
 
-Não vivo sem Livros e Música!
+## Não vivo sem:
+- Livros 📚
+- Música! 🎶
 
 ## Nas horas vagas?
-Leio Clássicos da Literatura, Histórias em Quadrinhos, Jogo Xadrez, conserto coisas e estudo processos de geração de energias renováveis.
+
+- Leio muito! Leio de tudo de Clássicos da Literatura a Livros técnicos e Histórias em Quadrinhos
+- Ouço Depeche Mode e The Cure!
+- Jogo Xadrez
+- Conserto coisas
+- Estudo processos de geração de energias renováveis.
 
 ## Idiomas que falo: 
+
 - Inglês (Avançado)
 - Espanhol (Avançado)
 - Francês (Básico)
 
 ## Gosto muito de:
+
 - Movimento Open Source
 - Computação em Nuvem
 - Varejo Autônomo
@@ -55,6 +64,7 @@ Leio Clássicos da Literatura, Histórias em Quadrinhos, Jogo Xadrez, conserto c
 - **Banco:** MySQL, PostgreSQL, SQLServer, MongoDB, Cassandra
 
 ## Ferramentas e Frameworks:
+
 - LINUX (Ubuntu e Arch) e Windows Server
 - Django, Flask, FastAPI, AdonisJS, GIN e ECHO.
 - REACT, HTML/JS/CSS, Typescript, Markdown, NodeJS
