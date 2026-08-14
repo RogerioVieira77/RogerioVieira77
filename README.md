@@ -4,57 +4,69 @@
 **`Engenheiro de Sistemas`**
 **`Desenvolvedor FullStack`**
 **`Especialista em IoT`**
-#
+
+# Sobre Mim
 
 Meu nome é Rogério Vieira, sou  formado em Análise de Sistemas, com MBA em gestão de negócios pela FGV e Gestão de Projetos de Engenharia pelo Instituto MAUÁ.
 
 **`Cursando o 10º Semestre de Engenharia da Computação, como segunda graduação`**
 
-+15 anos de experiência em IS/IT, trabalhando com Desenvolvimento, Sustentação e Projetos de soluções de sistemas, do plano de negócio ao frontend, passando pela infraestrutura e pelo código.
++15 anos de experiência em IS/IT, trabalhando com Desenvolvimento, Sustentação e Projetos.
+Entregando soluções de sistemas, desde o plano de negócio do frontend, passando pela infraestrutura, banco, código e todo o resto.
 
-Experiência com sistemas para a Indústria e Varejo, agregando valor e performance para as áreas de negócios, garantindo a sustentação de operações críticas, principalmente das áreas de E-Commerce, Supply Chain, Fiscais e Contábeis.
+Atualmente trabalho como Arquiteto de Soluções em uma multinacional e estou cursando o último semestre de Engenharia de Computação.
+(Já me sinto Engenheiro!!)
 
-Afinidades com, Computação em Nuvem, Containers, Banco de Dados, Python e GO, Varejo Autônomo, Cidades Inteligentes, Blockchain, IA, IOT e Indústria 4.0.
-
+Experiência com sistemas para a Indústria e Varejo, sustentação de operações críticas, principalmente das áreas de E-Commerce, Supply Chain, Fiscais e Contábeis.
 Especialista em Arquitetura de Soluções (Cloud e On Premises)
 Sólida experiência em Supervisão e Gerencia de Processos, Projetos e de Pessoas.
-Desenvolvedor Fullstack:
+Tenho passagem por diversas empresas, de vários portes, entre elas: SEPHORA, TELTEC Solutions, Nestlé, NESPRESSO, UOL e Renault, com histórico de serviços para os mercados EUA, EMEA (França, Espanha, Portugal e Suiça) e LATAM (Brasil, Chile, Argentina, México e Colômbia).
+Dinâmico, com habilidade para trabalhar sobre pressão.
+Direcionado a solução de problemas e focado em objetivos e entrega de resultados.
 
-- Front: Node JS, TypeScript, HTML, CSS, JScript.
-- Back:  Python, GO e um pouco de C
-- Banco: MySQL, PostgreSQL, SQLServer, MongoDB e Cassandra
+**E em casa?**
 
-No momento sou Coordenador de Arquitetura de sistemas em uma multinacional Espanhola (PROSEGUR) tenho passagem por diversas empresas, de vários portes, entre elas:  SEPHORA, TELTEC Solutions, Nestlé, NESPRESSO, UOL e Renault, com histórico de serviços para os mercados EUA, EMEA (França, Espanha, Portugal e Suiça) e LATAM (Brasil, Chile, Argentina, México e Colômbia).
+Tenho três gatinhas e um gatinho, amo todos os bichos, Livros e Musica.
+Nas horas vagas leio Clássicos da Literatura e Histórias em Quadrinhos, Jogo Xadrez, conserto coisas e estudo processos de geração de energias renováveis
 
-Possuo experiência com desenho e construção de Arquitetura de Soluções, Sistemas Distribuidos, Microserviços, Integrações com ERPs diversos, sistemas de PDV, Totens de Auto atendimento, Mensagerias e Repositórios fiscais
-
-Ampla experiência com computação em nuvem e infraestrutura on premisse com sistemas operacionais diversos (principalmente Linux e Windows Server)
-
-Estudo processos de geração de energias renováveis, apaixonado por todas as áreas da Tecnologia e da Elétrica (Eletrônica, Eletromobilidade e Eletromagnetismo).
-
-Tenho três gatinhas e um gatinho, nas horas vagas leio Clássicos da Literatura e Histórias em Quadrinhos, Jogo Xadrez e conserto coisas!
-
-Dinâmico, com habilidade para trabalhar sobre pressão. 
-
-Direcionado a solução de problemas e focado em objetivos e resultados.
+Sou apaixonado por todas as áreas da Tecnologia e da Elétrica (Eletrônica, Eletromobilidade e Eletromagnetismo).
 
 Idiomas: 
 **`Inglês`**
 **`Espanhol`**
 **`Francês (Básico)`**
 
+Gosto muito de:
+- Computação em Nuvem
+- Containers
+- Banco de Dados
+- Python e GO
+- Varejo Autônomo
+- Cidades Inteligentes
+- Blockchain
+- IA
+- IOT e Indústria 4.0.
+
+Minha Stack do coração:
+**Front:**
+- Node JS, TypeScript,HTML,CSS,JScript.
+**Back:**
+- Python,GO e um pouco de C,
+**Banco:**
+- MySQL,PostgreSQL,SQLServer,MongoDB,Cassandra
+
 Ferramentas e Frameworks:
-- LINUX (Ubuntu) e Windows Server
+- LINUX (Ubuntu e Arch) e Windows Server
 - PYTHON e GO
 - Django, Flask, FastAPI, AdonisJS, GIN e ECHO.
 - REACT, HTML/JS/CSS, Typescript, Markdown, NodeJS
 - MySQL, PostGreSQL, MongoDB e Cassandra
 - NGNIX, RabbitMQ, REDIS e Kafka
-- Keycloak  
+- Keycloak
 - Azure e GCP (um pouco de AWS)
 - Docker, Kubernetes, AKS e Terraform
 - Prometheus e GRAFANA
-- Mulesoft, Control+M e Apigee 
+- Mulesoft, Control+M e Apigee
 - Akamai
 - GIT/GITHUB
 - Atlassian (Confluence, BitBucker, JIRA)
@@ -64,7 +76,10 @@ Ferramentas e Frameworks:
 - Repositórios fiscais (MASTERSAF DW e TAX ONE)
 - WMS SAGA e MATRIX
 - PDVs: Zanthus, MICROS (Oracle), PROTHEUS, entre outros.
-  
+
+Lembre-se: *Don´t Panic !*
+**Até mais e obrigado pelos peixes!**
+
 <!-- 
 Acesse meu portfólio em: 
 <a href="https://gitfollio.vercel.app/RogerioVieira77"> 🔗
