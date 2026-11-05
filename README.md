@@ -35,8 +35,8 @@ Meu nome é Rogério Vieira, sou  formado em Análise de Sistemas, com MBA em ge
 
 ## Nas horas vagas?
 
-- Leio muito! Leio de tudo de Clássicos da Literatura a Livros técnicos e Histórias em Quadrinhos
-- Ouço Depeche Mode e The Cure!
+- Leio muito! Leio de tudo desde Clássicos da Literatura a Livros técnicos e Histórias em Quadrinhos
+- Ouço **Depeche Mode** e **The Cure**!
 - Jogo Xadrez
 - Conserto coisas
 - Estudo processos de geração de energias renováveis.
@@ -49,12 +49,13 @@ Meu nome é Rogério Vieira, sou  formado em Análise de Sistemas, com MBA em ge
 
 ## Gosto muito de:
 
-- Movimento Open Source
+- Movimento **Open Source**
 - Computação em Nuvem
 - Varejo Autônomo
 - Cidades Inteligentes
 - Blockchain
-- IA, IOT e Indústria 4.0.
+- IA
+- IOT e Indústria 4.0.
 
 ## Minha Stack do coração:
 
