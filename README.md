@@ -9,8 +9,8 @@
 
 Meu nome é Rogério Vieira, sou  formado em Análise de Sistemas, com MBA em gestão de negócios pela FGV e Gestão de Projetos de Engenharia pelo Instituto MAUÁ.
 
-- Atualmente trabalho como Arquiteto de Soluções em uma multinacional e estou cursando o último semestre de Engenharia de Computação, (Já me sinto Engenheiro!!).
-- +15 anos de experiência em IS/IT, trabalhando com Desenvolvimento, Sustentação e Projetos. Entregando soluções de sistemas, desde o plano de negócio do frontend, passando pela infraestrutura, banco, código e todo o resto.
+- Atualmente trabalho como Arquiteto de Soluções em uma multinacional e estou cursando o último semestre de **Engenharia de Computação**, (Já me sinto Engenheiro!!).
+- +15 anos de experiência em IS/IT, trabalhando com Desenvolvimento, Sustentação e Projetos, entregando soluções de sistemas, desde o plano de negócio, ao Back e ao Front, passando pela infraestrutura, banco, código e todo o resto.
 - Dinâmico, Direcionado a solução de problemas, focado em objetivos e entrega de resultados.
 
 - Sou apaixonado por todas as áreas da Matemática, da Tecnologia e da Elétrica (Eletrônica, Eletromobilidade e Eletromagnetismo).
@@ -59,7 +59,7 @@ Meu nome é Rogério Vieira, sou  formado em Análise de Sistemas, com MBA em ge
 ## Minha Stack do coração:
 
 - **Front:** Node JS, TypeScript, HTML, CSS, JScript.
-- **Back:** Python, GO e um pouco de C.
+- **Back:** Python 🐍, GO e um pouco de C.
 - **Banco:** MySQL, PostgreSQL, SQLServer, MongoDB, Cassandra
 
 ## Ferramentas e Frameworks:
