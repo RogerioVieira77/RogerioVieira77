@@ -52,10 +52,10 @@ Meu nome é Rogério Vieira, sou  formado em Análise de Sistemas, com MBA em ge
 - Movimento **Open Source**
 - Computação em Nuvem
 - Varejo Autônomo
-- Cidades Inteligentes
+- **Cidades Inteligentes**
 - Blockchain
 - IA
-- IOT e Indústria 4.0.
+- **IOT** e **Indústria 4.0.**
 
 ## Minha Stack do coração:
 
